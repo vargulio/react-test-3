@@ -1,0 +1,19 @@
+.cocktailCard {
+    width: 220px;
+}
+
+.cocktailOfTheDay  {
+
+  background-color: blueviolet!important;
+  color: white;
+
+}
+
+.cocktailOfTheDay .link {
+    color: black;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
